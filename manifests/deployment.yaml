@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: Study-Buddy-AI
-        image: dataguru97/studybuddy:v17
+        image: sunny2916/studybuddy:latest
         ports:
         - containerPort: 8501
         env:
